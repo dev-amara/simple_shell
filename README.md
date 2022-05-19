@@ -17,7 +17,7 @@ simple_shell is designed to run in the Ubuntu linux environment and to be compil
 
 ## Installation
 
-	 - Clone this repository: `https://github.com/issar13/simple_shell`.
+	 - Clone this repository: `https://github.com/dev-amara/simple_shell.git`.
 	 - Change directories into the repository: `cd simple_shell`
 	 - Compile: `gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
 	 - Run the shell in interactive mode: `./hsh`
